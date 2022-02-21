@@ -1,0 +1,21 @@
+.heading-1 {
+    font-family: 'Staatliches', cursive;
+    padding-left: 160px;
+    padding-top: 70px;
+    color: #754EF9;
+}
+.heading-2 {
+    font-family: 'Staatliches', cursive;
+    padding-left: 160px;
+    font-size: 65px;
+}
+.detail-1 {
+    font-size: large;
+    padding-left: 160px;
+    color: #BEBDBE;
+}
+.logo-1 {
+    width: 200px;
+    margin-left: 1150px;
+    margin-top: -305px;
+}
